@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+.image {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+.card{
+    border-radius: 8px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    max-width: 300px;
+}
+.fact{
+    font-style: italic;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.bold{
+    font-weight: bold
+}
+.info{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.justify{
+    text-align: justify;
+}
+.borders{
+    border: 1px solid #455779;
+    border-radius: 8px;
+}
+.top{
+    text-align: center;
+    padding-top: 5px;
+}
