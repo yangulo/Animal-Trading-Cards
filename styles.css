@@ -15,7 +15,6 @@
 .facts {
     font-style: italic;
     text-align: justify;
-    text-justify: inter-word;
 }
 
 .bold {
@@ -37,7 +36,7 @@
 
 .top {
     text-align: center;
-    padding-top: 5px;
+    text-transform: uppercase;
 }
 
 ul {
